@@ -1,0 +1,30 @@
+{
+  "name": "fear-greed-index",
+  "version": "1.0.1",
+  "description": "一个用于获取和分析加密货币市场恐惧/贪婪指数的工具",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cryptocurrency",
+    "index",
+    "fear",
+    "greed"
+  ],
+  "author": "Yujing",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "0.21.1",
+    "founction-btc-today": "1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lulucheung2023/fear-greed-index"
+  },
+  "bugs": {
+    "url": "https://github.com/lulucheung2023/fear-greed-index/issues"
+  },
+  "homepage": "https://github.com/lulucheung2023/fear-greed-index"
+}
